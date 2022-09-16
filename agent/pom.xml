@@ -12,7 +12,7 @@
     <artifactId>agent</artifactId>
 
     <properties>
-        <javassist.version>3.23.1-GA</javassist.version>
+        <javassist.version>3.28.0-GA</javassist.version>
     </properties>
 
     <dependencies>
